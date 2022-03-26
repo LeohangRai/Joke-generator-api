@@ -1,0 +1,24 @@
+{
+  "name": "joke-generator-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getJoke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeohangRai/Joke-generator-api.git"
+  },
+  "keywords": [
+    "programming-jokes",
+    "jokes",
+    "joke-generator"
+  ],
+  "author": "Leohang Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeohangRai/Joke-generator-api/issues"
+  },
+  "homepage": "https://github.com/LeohangRai/Joke-generator-api#readme"
+}
