@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LeohangRai/Joke-generator-api/issues"
   },
-  "homepage": "https://github.com/LeohangRai/Joke-generator-api#readme"
+  "homepage": "https://github.com/LeohangRai/Joke-generator-api#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
